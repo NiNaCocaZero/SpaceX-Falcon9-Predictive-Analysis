@@ -30,7 +30,7 @@ Below are the key slides from the executive presentation detailing the methodolo
 
 ![Slide 1](./slides/ds_capstone_project_report_page-0001.jpg)
 
-![Slilde 2](./slide/ds_capstone_project_report_page-0002.jpg)
+![Slilde 2](./slides/ds_capstone_project_report_page-0002.jpg)
 
 ![Slide 3](./slides/ds_capstone_project_report_page-0003.jpg)
 
