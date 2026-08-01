@@ -28,7 +28,7 @@ By predicting if the first stage will land, we can determine the actual cost of 
 
 Below are the slides from the executive presentation detailing the methodology, data insights, model performance metrics, and final business conclusions:
 
-![Executive presentation](./https://github.com/NiNaCocaZero/SpaceX-Falcon9-Predictive-Analysis/tree/main/slides)
+![Executive presentation](./tree/main/slides)
 
 
 
