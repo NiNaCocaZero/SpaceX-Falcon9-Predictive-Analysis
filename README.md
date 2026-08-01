@@ -29,7 +29,9 @@ By predicting if the first stage will land, we can determine the actual cost of 
 Below are the key slides from the executive presentation detailing the methodology, data insights, model performance metrics, and final business conclusions:
 
 ![Slide 1](./slides/ds_capstone_project_report_page-0001.jpg)
+
 ![Slilde 2](./slide/ds_capstone_project_report_page-0002.jpg)
+
 ![Slide 3](./slides/ds_capstone_project_report_page-0003.jpg)
 
 
